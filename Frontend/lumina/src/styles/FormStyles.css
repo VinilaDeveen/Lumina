@@ -1,0 +1,83 @@
+.Main-form {
+  width: 100%;
+  height: 320px;
+  overflow: auto;
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 0px 30px;
+}
+
+.Main-form::-webkit-scrollbar {
+  display: none;
+}
+
+.Main-form.phlebotomist .qBox {
+  padding: 10px;
+}
+
+.Main-form .trueFalse {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Main-form .qBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 98%;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  margin: 10px;
+}
+
+.Main-form .qBox input[type='time'] {
+  color: white;
+}
+
+.Main-form .qBox label {
+  color: white;
+  font-size: 14px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.Main-form .qBox input[type='checkbox'] {
+  margin: 0px 50px 0px 0px;
+  width: 30px;
+  height: 1.2em;
+}
+
+.Main-form .qBox input:focus {
+  outline: none;
+}
+
+.Main-form.phlebotomist .qBox input {
+  border-bottom: none;
+}
+
+.Main-form .qBox input {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0);
+  border: 0px;
+  border-bottom: 1px solid black;
+}
+
+.Main-form .qBox input::placeholder {
+  color: white;
+}
+
+.Main-form .buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons button {
+  background-color: rgba(255, 255, 255, 0.31);
+}

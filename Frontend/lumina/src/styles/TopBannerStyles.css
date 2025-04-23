@@ -1,0 +1,133 @@
+/*Login*/
+.Alogin {
+  background-color: white;
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.Alogin {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
+}
+.Alogin .login-info {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#bellIcon {
+  width: 18px;
+  height: 20px;
+}
+
+.Alogin .login-info .profile {
+  margin: 10px;
+}
+.Alogin .login-info .profile .profile-info p,
+.bottom .profile p {
+  padding: 0;
+  margin: 0px 10px 0px;
+}
+
+.Alogin .login-info .profile .profile-info p:nth-child(1),
+.bottom .profile p:nth-child(1) {
+  font-size: 14px;
+  font-weight: 800;
+}
+.Alogin .login-info .profile .profile-info p:nth-child(2),
+.bottom .profile p:nth-child(2) {
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.Alogin .login-info .profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom .profile {
+  display: flex;
+  margin-left: 10px;
+}
+
+.bottom .profile p {
+  color: white;
+  font-weight: 500;
+}
+
+.AsideMenu .AsideMenu-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Alogin .login-info img,
+.bottom .profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+/* Welcome Message */
+
+.welcome {
+  display: flex;
+  justify-content: center;
+}
+
+.welcomeImage {
+  height: 150px;
+  width: 100%;
+  background-image: url(../assets/images/titlebar.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 5%;
+  background-size: cover;
+  position: relative;
+  
+  opacity: 0.9;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.welcome {
+  width: 100%;
+  position: relative;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.messageHead {
+  margin-top: 10px;
+}
+
+.welcomeMessage {
+  height: 150px;
+  width: 100%;
+  backdrop-filter: blur(0.5px);
+  box-shadow: -2px -2px 10px 0px #ffffff85 inset;
+  box-shadow: 0px -2px 10px 0px #00000026 inset;
+  background: rgba(0, 0, 0, 0A108);
+  position: absolute;
+  object-fit: cover;
+  padding: 20px 30px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.messageBody,
+.messageHead {
+  color: white;
+  z-index: 2;
+}
+
+.messageHead {
+  margin-top: -1px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.messageBody {
+  font-size: 12px;
+  font-weight: 500px;
+}

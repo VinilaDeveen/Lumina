@@ -1,0 +1,21 @@
+.labtech-form-group p {
+    font-size: 14px !important;
+}
+
+.labtech-checkboxes label{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+}
+
+.labtech-checkboxes label input {
+    margin-right: 20px;
+    width: 12px !important;
+}
+
+
+#hemoglobinGroup {
+    width: 100%;
+}
+

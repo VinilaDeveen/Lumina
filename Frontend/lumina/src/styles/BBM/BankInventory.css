@@ -1,0 +1,32 @@
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bankinventory-container h3{
+
+  display: flex;
+  font-size:40px;
+  font-family:sans-serif;
+  flex-direction: column;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 40px;
+  background-color: #e2e2e2;
+  height: 120%;
+  padding-left: 18px;
+  
+}
+
+table .borderBottom{
+  text-align: center;
+  border-bottom: 2px solid #131111;
+}
+
+.bank-inventory {
+  width: 45%;
+  background-color: #221f1f;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}

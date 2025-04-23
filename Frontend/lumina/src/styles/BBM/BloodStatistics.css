@@ -1,0 +1,56 @@
+.blood-statistics {
+  text-align: center;
+}
+
+.clickable-title {
+  cursor: pointer;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #e63946;
+}
+
+.blood-drops {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.blood-drop-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blood-type {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.blood-drop {
+  width: 50px;
+  height: 70px;
+  position: relative;
+  background: #ddbcbf;
+  clip-path: path(
+    "M 25 0 C 39 0 50 11 50 25 C 50 35 45 50 25 70 C 5 50 0 35 0 25 C 0 11 11 0 25 0 Z"
+  );
+  overflow: hidden;
+  transform: rotateX(180deg);
+}
+
+.blood-fill {
+  position:relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #a80d1e;
+  transform: rotateX(180deg);
+}
+
+.percentage {
+  font-size: 0.9rem;
+  margin-top: 5px;
+  
+}

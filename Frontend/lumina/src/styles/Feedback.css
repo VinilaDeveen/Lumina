@@ -1,0 +1,113 @@
+.feedback {
+  display: 'flex';
+  width: 600px;
+  height: 40px;
+  margin-right: 10%;
+}
+
+.feedbackleft {
+  width: 300px;
+  background-size: cover;
+  border-radius: 20px 0 0 20px;
+  height: 400px;
+  margin-top: 30px;
+}
+
+i {
+  color: black;
+}
+
+.feedbackright {
+  width: 500px;
+  background-color: black;
+  border: 2px solid black;
+  background-color: rgb(0 0 0 / 95%);
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  border-radius: 0 20px 20px 0;
+  height: 400px;
+  margin-top: 30px;
+}
+
+.star {
+  transition: color 0.2s ease;
+}
+
+.star:hover {
+  transform: scale(1.2);
+  transition: transform 0.2s;
+}
+
+.filled {
+  color: #ffd700; /* Gold color for filled stars */
+}
+
+.comment {
+  background-color: black;
+  margin: 0 5%;
+  padding: 5%;
+  height: 180px;
+  border-radius: 0 20px 20px 0;
+  text-align: left;
+  border-color: aliceblue;
+}
+textarea {
+  background-color: black;
+  margin: 0 5%;
+  padding: 2%;
+  height: 100px;
+  border-radius: 20px;
+  text-align: left;
+  width: 250px;
+  overflow: auto;
+  color: white;
+}
+.viewbox {
+  width: 350px;
+  color: aliceblue;
+  text-align: center;
+  height: 100px;
+  backdrop-filter: blur(14px);
+  background-color: rgba(0, 0, 0, 0.9);
+  border-radius: 6px;
+  font-weight: bold;
+  margin: 2%;
+  grid-auto-rows: 10px;
+  border: 2px solid black;
+  padding-top: 5px;
+}
+.full {
+  background-size: cover;
+  height: 100vh;
+}
+.names {
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.feedback-cardtext {
+  height: 100px;
+  width: 330px;
+  overflow: hidden;
+  color: aliceblue;
+  font-weight: normal;
+  text-align: center;
+  line-height: 1.5;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.feedback-cardtext::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.feedback-cardtext::-webkit-scrollbar-thumb {
+  background-color: whitesmoke;
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+.marquee {
+  width: 100%; /* Full-width container */
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text wrapping */
+  box-sizing: border-box; /* Include padding in width */
+  animation: scroll-left 15s linear infinite;
+}

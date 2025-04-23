@@ -1,0 +1,40 @@
+.home {
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  overflow: auto;
+}
+
+.heroSection {
+  background-image: url(../../assets/images/heroSectionImage.webp);
+  background-color: black;
+  height: 92vh;
+  width: 100%;
+  object-fit: contain;
+  background-repeat: no-repeat;
+}
+
+.heroMain .hero-info {
+  color: rgb(0, 0, 0);
+}
+
+.heroMain .hero-info .main {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.heroMain .hero-info .sub {
+  font-size: 30px;
+  font-weight: 600;
+}
+.heroMain .hero-info {
+  text-align: center;
+}
+
+.heroMain .hero-info button,
+.donateNowButton {
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-weight: 500;
+  color: white;
+  border: none;
+  background-color: red;
+}

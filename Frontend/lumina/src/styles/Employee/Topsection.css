@@ -1,0 +1,250 @@
+.sideclass{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    top:0;
+    left:0;
+    text-align: left;
+  padding-top: 0px;
+  backdrop-filter: blur(5px);
+  border-radius: 0 25px 25px 0;
+  border-right:1px solid white;
+ 
+  }
+  .main{
+    width: auto;
+  }
+    
+    .sideclass p{
+      color:white;
+      font-size: 30px;
+      margin-left: 10px;
+    }
+
+.sideclass a i{
+  font-size: 20px;
+  margin-right: 20px;
+  
+}
+.sideclass  a:hover {
+  border:1px solid white;
+  margin: 5px 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(400px);
+}
+.on{
+  backdrop-filter: blur(20px);
+  margin: 0;
+  padding:0;
+}
+.add{
+  
+  background-size: cover;
+    background-color: azure;
+   color:black;
+   padding: 1% 2%;
+   border-radius: 30px;
+    float:right;
+    margin-right: 6%;
+    box-shadow: 0px 15px 15px 0px #00000080;
+}
+
+
+
+.sideclass a{
+    padding: 10px 20px;
+    font-size: 16px;
+    display:block;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    border-bottom:1px solid white;
+    
+}
+
+.left{
+ /* background-image: url("SideBar Image.jpg");*/
+  background-size: cover;
+    border-right:1px solid white;
+    border-radius: 0 38px 38px 0;
+    height:100%;
+    position: fixed;
+    background-color:  #2d2d44;
+    box-shadow: 0 10px 16px 0 #00000080;
+    width:300px;
+    z-index: 1;
+}
+.cardset{
+    position:absolute;
+    top:175px;
+    margin-left: 5%;
+    display: flex;
+    
+}
+
+  
+    
+
+  
+
+   
+    
+
+.out2{left:0;
+     height: auto;
+    margin-top: 340px;
+    color:white;
+    padding-bottom: 0;
+    backdrop-filter: blur(5px);
+
+}
+.out2 Row{
+    bottom: 0;
+    left:0;
+    color:white;
+    position: fixed;
+    
+
+}
+.out2 Col{
+    text-align: left;
+    color:white;
+}
+.outlogo{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+  }
+  .outlogo2{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    margin-top: -15px;
+  }
+  .icon-container {
+    text-align: right; 
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    height: 100%;
+    justify-items: center;
+    margin-top: -7px;
+}
+
+.icon-container i {
+    cursor: pointer; 
+}
+.main2{
+    margin-left:  3%;
+    margin-top: 1%;
+    width:100%;
+    border: none;
+}
+
+.notification2 {
+    font-size: 30px;
+    justify-content: center;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    color: black;
+  }
+
+.notification2 .badge2{
+    position:absolute;
+    top:-5px;
+    right: -6px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 13px;
+    
+    border-radius: 50%;
+    width:20px;
+    height:20px;
+  }
+  Card .Body {
+    text-align: left;
+    background-color: #2d2d44;
+  }
+  Card.Title{
+    text-align: left;
+  }
+  Card.Text{
+    text-align: left;
+    
+  }
+  .text{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    border-radius:13px;
+    background-color: white;
+    
+  }
+  .employee{
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+  }
+  .add{
+    color:black;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 1% 2%;
+    border-radius: 30px;
+    background-color: aliceblue;
+    float:right
+  }
+  
+  
+  body{
+    background-color:#E1EBEE;
+  }
+  .cardbody{
+    color:white;
+    background-image: url("TitleBar.jpeg");
+    background-size: cover;
+    height:150px;
+    
+  }
+  Card{
+     border-radius: 10px;
+  }
+  .topicon{
+    text-align:right;
+    margin-left:25px;
+    margin-top:5px;
+  }
+
+  @media(max-width:600px){
+    .left{
+     
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    transition: 0.5s;
+    
+          
+    }
+    .main{
+      margin:1% 0;
+      width:100%;
+    
+  }
+  .sideclass{
+    display: block;
+  }
+  .out2{
+    margin-top: 280px;
+  }
+}
+  @media(min-width:600px){
+    .out2{
+     margin-top: 330px;
+    }
+    }
+  

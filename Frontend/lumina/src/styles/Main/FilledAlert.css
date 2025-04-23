@@ -1,0 +1,21 @@
+.swal2-toast {
+  border-radius: 13px;
+  backdrop-filter: blur(3px) saturate(200%);
+  -webkit-backdrop-filter: blur(16px) saturate(200%);
+  background-color: rgb(255, 255, 255);
+  margin-top: 120px;
+  color: rgb(0, 0, 0);
+}
+
+.swal2-timer-progress-bar {
+  background-color: rgb(224, 224, 224);
+}
+
+div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line] {
+  background-color: red;
+}
+
+div:where(.swal2-icon).swal2-error {
+  background-color: rgb(255, 255, 255) !important;
+  color: rgb(255, 0, 0);
+}

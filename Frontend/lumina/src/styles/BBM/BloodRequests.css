@@ -1,0 +1,58 @@
+
+  
+  .blood-donation-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #464343;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blood-donation-table th, .blood-donation-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .blood-donation-table th {
+    background-color: #413e3e;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+  }
+  
+  .blood-donation-table td {
+    color: #fffefe;
+    text-align: center;
+
+  }
+  
+  .blood-donation-table tr:hover {
+    background-color: #968c8c;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .green-btn {
+    background-color: #4CAF50;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .red-btn {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .green-btn:hover, .red-btn:hover {
+    opacity: 0.9;
+  }
+  

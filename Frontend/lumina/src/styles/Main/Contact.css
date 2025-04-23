@@ -1,0 +1,137 @@
+::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000;
+}
+
+.form-group .contact-input {
+  font-size: 14px !important;
+  margin-bottom: 10px;
+}
+.form-group .contact-us {
+  font-size: 14px;
+}
+
+.contact-us input {
+  font-size: 16px;
+}
+.contact-us label {
+  font-size: 16px;
+}
+
+/* Form Section */
+.form-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.top {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 5px;
+  border-radius: 15px;
+  width: 100%;
+  max-width: 1000px;
+  box-shadow: 0px 4px 6px rgba(90, 88, 88, 0.3);
+  margin: 20px auto;
+}
+
+.form-main h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.form-main p {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.contact-form {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 30px;
+  border-radius: 15px;
+  width: 100%;
+  max-width: 1000px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  margin: 20px auto;
+  height: auto;
+}
+
+.form-group {
+  display: flex;
+  align-items: flex-start; /* Align label and input at the top */
+  margin-bottom: 15px; /* Space between form groups */
+}
+
+.form-label {
+  font-size: 14px;
+  color: #fff;
+  width: 25%; /* Adjust label width for alignment */
+  margin-right: 10px; /* Space between label and input */
+  display: inline-block; /* Ensures labels and inputs align horizontally */
+}
+
+.form-input,
+.form-textarea {
+  width: 70%; /* Input field size adjusted to align with label */
+  padding: 6px;
+  margin: 5px 0; /* Adds a 5px vertical gap between inputs */
+  border: none;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 12px;
+}
+
+.form-textarea {
+  height: 120px; /* Maintain textarea size */
+  resize: none;
+}
+
+.contact-form .form-group:nth-of-type(2) {
+  margin-top: -15px; /* Move the "Enquiry" section closer to the top */
+}
+
+.form-submit {
+  padding: 10px;
+  width: 13%;
+  background: linear-gradient(90deg, #f5f1f0, #f7f3f3);
+  border: none;
+  border-radius: 80px;
+  color: rgb(77, 76, 76);
+  font-size: 14px;
+  cursor: pointer;
+  margin-top: 15px;
+  box-shadow: 0px 4px 10px rgb(41, 36, 36);
+  align-self: flex-end;
+}
+
+.form-submit:hover {
+  background: linear-gradient(90deg, #f7f3f3, #f5f1f0);
+  color: black;
+  transform: translateY(-2px);
+  transition: 0.3s ease-in-out;
+}
+
+.checkbox-container {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 900px;
+}
+
+.checkbox-input {
+  margin-right: 15px;
+}
+
+.checkbox-label {
+  font-size: 14px;
+  color: #fff;
+  cursor: pointer;
+}

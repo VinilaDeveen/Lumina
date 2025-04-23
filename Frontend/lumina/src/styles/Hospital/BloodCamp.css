@@ -1,0 +1,53 @@
+.bloodCamp-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #474545;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.bloodCamp-table th,
+.bloodCamp-table td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #5e5b5b;
+}
+
+.bloodCamp-table th {
+  background-color: #413d3d;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.bloodCamp-table td {
+  color: #ffefef;
+}
+
+.bloodCamp-table tr:hover {
+  background-color: #7c7979;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.green-btn {
+  background-color: #4caf50;
+  color: white;
+  margin-right: 10px;
+}
+
+.red-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+.green-btn:hover,
+.red-btn:hover {
+  opacity: 0.9;
+}

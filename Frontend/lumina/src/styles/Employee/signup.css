@@ -1,0 +1,163 @@
+.form{
+    text-align: center;
+    line-height: 0.6;
+    color:aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 2%;
+    width:500px;
+
+} 
+    
+    
+
+
+input[type="text"],input[type="password"],input[type="email"] {
+    border:none;
+    border-bottom: 2px solid beige;
+    background-color: transparent;
+    width:75%;
+    color:aliceblue;
+    font-size: 18px;
+    text-align: left;
+    padding-bottom: 9px;
+}
+
+input[type="date"]{
+    border:none;
+    border-bottom: 2px solid beige;
+    background-color: transparent;
+    width:75%;
+    color:white;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.2;
+    
+}
+input[type="checkbox"] {
+    width: auto;
+    margin-right: 10px; /* Add small margin to space the checkbox from the label */
+    vertical-align: middle; /* Align checkbox vertically with the text */
+}
+input[type="radio"] {
+    width: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+input:focus{
+    outline: none;
+    border-bottom: 2px solid beige;
+}
+.inputclass{
+    position: relative;
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.inputclass input{
+    padding-right: 10px;
+
+}
+
+
+.inputclass .fa-eye{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    right: 65px;
+    top: 0;
+    /*transform: translateY(-50%);*/
+    cursor: pointer;
+}
+
+.inputclass .fa-eye-slash{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    right: 65px;
+    top: 0;
+    /*transform: translateY(-50%);*/
+    cursor: pointer;
+}
+
+.inputclass i{
+    font-size: 18px;
+    position: absolute;
+    right: 65px;
+    top: 0;
+    /*transform: translateY(-50%);*/
+    cursor: pointer;
+}
+.mai-signup{
+    background-color: black;
+    border: 2px solid black;
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 30px;
+    z-index: 1;
+    margin: auto;
+    box-shadow: 0 25px 25px 0;
+    width:1000px;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+.rightpart-signup{
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+    
+}
+
+pic{
+    float:left;
+   overflow:hidden;
+    /*z-Index:0;*/
+    width:100%;
+    
+    margin:0;
+    padding:0;
+}
+.pic-signup{
+    /*margin: 0;
+    padding: 0%;
+    width:400px;
+    height:100%;
+    overflow: hidden;
+    border-radius: 40px;*/
+    
+    /*height: 100vh; */
+    /*background-image: url('my.jpg');*/
+    background-image: url('TitleBar.jpeg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    height:600px;
+    width:500px;
+    border-radius: 0px 30px  30px 0;
+
+
+}
+.all{ height: 100vh; 
+    background-image: url('TitleBar.jpeg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    
+  }
+  .signup-submit{
+    text-align: center;
+    margin: auto;
+    backdrop-filter: blur(20px);
+    padding: 2% 1%;
+    width:40%;
+    border-radius: 30px;
+    border: 1px solid white;
+    margin-top: 5%;
+    background-color: rgba(255, 255, 255, 0.2);
+    
+  }
+  .signup-submit:hover{
+    background-color: rgba(255, 255, 255, 0.4);
+  }

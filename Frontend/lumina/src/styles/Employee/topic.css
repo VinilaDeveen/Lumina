@@ -1,0 +1,198 @@
+
+
+.main{
+    width: auto;
+  }
+    
+   
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+  
+
+   
+    
+
+
+.outlogo{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+  }
+  .outlogo2{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    margin-top: -15px;
+  }
+  
+.main{
+    margin-left:  6%;
+    margin-top: 1%;
+    width:100%;
+    border: none;
+}
+
+.notification2 {
+    font-size: 30px;
+    justify-content: center;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    color: black;
+  }
+
+.notification2 .badge2{
+    position:absolute;
+    top:-5px;
+    right: -6px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 13px;
+    
+    border-radius: 50%;
+    width:20px;
+    height:20px;
+  }
+  Card .Body {
+    text-align: left;
+    background-color: #2d2d44;
+    
+  }
+  Card.Title{
+    text-align: left;
+    font-size: 25px;
+  }
+  Card.Text{
+    text-align: left;
+    font-size: 20px;;
+  }
+  .text{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    border-radius:13px;
+  }
+  
+  .cardbody{
+    color:white;
+    background-image: url("TitleBar.jpeg");
+    background-size: cover;
+    height:100px;
+    font-size: 20px;
+    padding-left: 10px;
+    
+  }
+  Card{
+     border-radius: 10px;
+  }
+  
+
+  @media screen and (max-width:900px){
+    .tableele{
+      width: 100%;
+    }
+
+    .sideclass::-webkit-scrollbar {
+      
+      height: 100%;
+    }
+    .text{
+      width: 100%;
+    }
+    .hide{
+      display: "none"
+      
+    }
+    
+    .out{
+      margin-top: 30px;
+      
+    }
+    .left{
+     
+    /*width: 500px;*/
+  /*position: fixed;*/
+    z-index: 1;
+    transition: 0.5s;
+    display: none;
+    } 
+    
+          
+    
+    .left-mobile{
+      display: block;
+      width: 13%;
+      overflow: hidden;
+    }
+    .main{
+      margin-top:1%;
+      padding-left: 15%;
+      width:100%;
+      
+      
+    
+  }
+  .sideclass{
+    display: block;
+  }
+  .out{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .out p{
+    font-size: 12px;
+  }
+
+  .icon-container {
+    display: flex; 
+    /*justify-content: space-between;*/
+  }
+
+}
+  @media(min-width:900px){
+    .left-mobile{
+      display: none;
+  
+    }
+    .left{
+      display: block;
+      
+    }
+    .sideclass2{
+      display: none;
+    }
+    .sideclass{
+      display: block;
+    }
+  }
+
+  .popupform{
+    display: none;
+    position: fixed;
+    top:0;
+    z-index: 4;
+    width:1000px;
+    margin-left: 10%;
+
+  }
+  .employee{
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    padding: 2%;
+    margin-left:3% ;
+    background-color: white;
+    border-radius: 5px;
+    width: 100%;
+  }

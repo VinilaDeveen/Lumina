@@ -1,0 +1,51 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333333;
+}
+.terms-container {
+  padding: 20px;
+}
+.terms-content {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+.terms-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.terms-date {
+  font-size: 1rem;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.terms-section {
+  margin-bottom: 30px;
+}
+.terms-subtitle {
+  font-size: 1.8rem;
+  color: #ff0800;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.terms-text {
+  font-size: 1rem;
+  color: #333333;
+  margin-bottom: 15px;
+}
+.terms-list {
+  list-style: disc;
+  margin-left: 20px;
+  color: #333333;
+}
+.terms-listItem {
+  margin-bottom: 10px;
+  font-size: 1rem;
+}

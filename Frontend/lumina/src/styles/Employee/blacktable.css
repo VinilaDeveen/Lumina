@@ -1,0 +1,28 @@
+.blacktable{
+    background-image: linear-gradient(to right ,black, gray);
+    color:aliceblue;
+    width:92%;
+    margin-left: 5%;
+   
+  }
+  .blacktable th tr td{
+    border:1px solid white;
+   
+  }
+  .tableele{
+    margin-top: 5%;
+    overflow-x: auto;
+    overflow-y: auto;
+    max-width: 100%;
+  }
+  table p{
+    
+    color:rgb(71, 71, 71);
+    font-weight: bold;
+    font-size: 15px;
+    padding: 1% 2%;
+    border-radius: 30px;
+    margin: 10px 4px;
+    text-align: center;
+
+}

@@ -1,0 +1,20 @@
+#emailOTP {
+  background-image: url('../assets/icons/mail.svg');
+  background-position: right;
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+}
+
+#otpIncorrect {
+  font-size: 20px;
+  margin-top: 70px;
+  color: #ff0101;
+  font-weight: 400;
+  width: 87%;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.inputBoxes:nth-child(6) {
+  margin: 0;
+}

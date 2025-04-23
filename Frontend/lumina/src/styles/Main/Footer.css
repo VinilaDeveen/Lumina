@@ -1,0 +1,95 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  font-family: Arial, poppins;
+  padding: 40px 60px;
+  font-size: 0.9em;
+}
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+.footerSection {
+  flex: 1;
+  min-width: 200px;
+}
+.footerSection-aboutUs p {
+  line-height: 1.5;
+  margin: 0;
+  color: #ddd;
+}
+.footerSection-links .link-pages a {
+  display: block;
+  margin-bottom: 8px;
+  color: #ddd;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.footerSection-links .link-pages a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.footerSection-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.socialIcon .icon {
+  all: unset;
+  font-size: 20px;
+  color: white;
+}
+.logoBox {
+  width: 120px;
+  height: 50px;
+  background-color: #aaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #333;
+  border-radius: 5px;
+}
+.logoText {
+  text-transform: uppercase;
+}
+.footerSection-followUs {
+  display: flex;
+  flex-direction: column;
+}
+.footerSection-followUs .socialIcons a {
+  margin-right: 10px;
+  color: #ddd;
+  font-size: 1.4em;
+  transition: color 0.3s ease;
+}
+.footerSection-followUs .socialIcons a:hover {
+  color: #fff;
+}
+.footerBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #444;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+.footerBottom p {
+  margin: 0;
+  color: #ddd;
+}
+.footerPolicies a {
+  color: #ddd;
+  text-decoration: none;
+  margin: 0 5px;
+  transition: color 0.3s ease;
+}
+.footerPolicies a:hover {
+  color: #fff;
+  text-decoration: underline;
+}

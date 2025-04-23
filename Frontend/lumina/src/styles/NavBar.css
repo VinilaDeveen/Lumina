@@ -1,0 +1,57 @@
+
+.navbar .navbar-left span{
+    font-size: 25px;
+    font-weight: 600;
+}
+.navbar .navbar-left img{
+    height: 40px;
+    margin-right: 10px;
+}
+
+
+.navbar {
+    z-index: 9000;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border-bottom: 2px solid rgba(200, 200, 200, 0.223);
+}
+
+.navbar .navbar-right .AsaSubmit {
+    margin-top: 0px;
+}
+
+.navbar .navbar-centered a:hover li {
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.navbar a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navbar button:hover {
+    background-color: rgba(255, 255, 255, 0.479);
+}
+.navbar button {
+    backdrop-filter:blur(1px) ;
+    font-weight: 500;
+}
+.navbar .navbar-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar .navbar-centered ul li {
+    border-bottom: 2px solid rgba(255, 255, 255, 0);
+    margin-left: 30px;
+}
+.navbar .navbar-centered ul {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    list-style: none;
+}

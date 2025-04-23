@@ -1,0 +1,33 @@
+.download {
+  width: 73px;
+  height: 73px;
+  position: absolute;
+  bottom: 60px;
+  right: 60px;
+  background-image: url(../assets/icons/download.svg);
+  background-color: #d9d9d9;
+  background-size: 45px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 100%;
+}
+
+.previewPDF {
+  width: 100%;
+  height: 55.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PDF {
+  background-image: url(../assets/icons/pdf.svg);
+  background-size: 300px;
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #d9d9d9;
+  padding: 20px;
+}

@@ -1,0 +1,14 @@
+.login .popupBox .input input{color: white;}::-ms-reveal {
+    filter: invert(100%);
+ }
+.login .popupBox  .rememberPwd .rem{
+    margin-right: 20px;
+}
+.login .popupBox  .rememberPwd{
+    display: flex;
+    flex-direction: row;
+}
+.login .popupBox .input input {
+    font-size: 16px;
+    margin: 0px 0px 10px 0px;
+}

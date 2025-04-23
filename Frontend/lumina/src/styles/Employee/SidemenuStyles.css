@@ -1,0 +1,161 @@
+/* navigation bar*/
+
+.AsideMenu {
+  width: 420px;
+  height: 100vh;
+  background-repeat: no-repeat;
+  position: sticky;
+}
+
+.scrollMenu {
+  scrollbar-width: auto;
+  scrollbar-color: #fffefe #ffffff00;
+}
+
+.AsideMenu .AsideMenu-image {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-image: url(../assets/images/SideBar.jpg);
+  background-repeat: no-repeat;
+  border-radius: 0px 30px 30px 0px;
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.AsideMenu .AsideMenu-menu {
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 0px 30px 30px 0px;
+  position: absolute;
+  backdrop-filter: blur(5px);
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Alogo {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Amenu {
+  margin-top: -60px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 120px;
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Amenu img {
+  margin: 40px 20px;
+  padding: 20px;
+  width: 71px;
+  height: 71px;
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Amenu img:hover {
+  background-color: #f1f2f83a;
+  border-radius: 50%;
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.4);
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Amenu img:active {
+  background-color: #f1f2f83a;
+  border-radius: 50%;
+  box-shadow: -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: 0px -2px 10px 0px rgba(0, 0, 0, 0.4);
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Amenu {
+  display: flex;
+  justify-content: flex-end;
+}
+a {
+  text-decoration: none;
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Abox:hover {
+  background-color: #f1f2f83a;
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.4);
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Abox:active {
+  box-shadow: -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: 0px -2px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Abox {
+  cursor: pointer;
+  margin: 5px 10px;
+  align-items: center;
+  vertical-align: center;
+  display: flex;
+  padding: 16px;
+}
+
+.AsideMenu .AsideMenu-menu .Atop .Abox-three {
+  border-bottom: 1.2px solid rgb(255, 255, 255);
+}
+.AsideMenu .AsideMenu-menu .Atop .Abox img {
+  width: 30px;
+  height: 30px;
+  margin-left: 8px;
+}
+.AsideMenu .AsideMenu-menu .Atop .Abox p {
+  margin-bottom: 0;
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+  margin-left: 10px;
+}
+.AsideMenu .AsideMenu-menu .Atop .Alogo img {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.bottom {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+#logout {
+  font-size: 27px;
+  font-weight: 600;
+  color: white;
+}
+
+.bottom {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: -20px;
+}
+
+.bottom .profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  border-radius: 50px;
+  padding: 10px 20px;
+  margin-left: 40px;
+}
+
+.bottom .profile img {
+  width: 30px;
+  height: 30px;
+}

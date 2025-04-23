@@ -1,0 +1,78 @@
+/* Table Styles  */
+
+.table-component {
+  /*
+  /*overflow: auto;
+  height: 400px;
+  width: 50%;
+  border-radius: 10px;
+  */
+}
+
+.table-component::-webkit-scrollbar {
+  /*
+  display: none;
+  */
+}
+
+table {/*
+  width: 700px;
+  margin-left: 8%;
+  */
+}
+
+table .D-index {
+  /*font-size: 30px;*/
+  /*
+  font-weight: 800;
+  
+  font-size: 20px;
+  */
+}
+
+table tr:nth-child(odd) {
+  /*
+  background-color: #ffffff1a;
+  */
+}
+table tr:nth-child(even) {
+  /*
+  background-color: white;
+  */
+}
+
+table td {
+  /*padding: 20px;*/
+  /*
+  padding: 20px;
+  */
+}
+
+table tr {/*
+  box-shadow: inset -2px -2px 10px 0px rgba(255, 255, 255, 0.52);
+  box-shadow: inset 0px -2px 10px 0px rgba(0, 0, 0, 0.06);
+  text-align: left;
+  /*font-size: 25px;*/
+  font-size: px;
+}
+
+.Amain table th {
+  /*
+  font-size: 25px;
+  */
+}
+
+table .Ahead {/*
+  background-image: white;
+  border-bottom: 20px solid rgba(0, 0, 0, 0);
+  position: sticky;
+  top: 0;
+  */
+}
+
+table tr th {/*
+  text-align: center;
+  padding: 18px 0px 18px 0px;
+  background-color: rgba(255, 255, 255, 0.821);
+  */
+}

@@ -1,0 +1,84 @@
+.about-us h1 {
+    all: unset;
+    font-size: 30px !important;
+    width: 100%;
+    margin: 3% 0% 0% 0%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.about-us p {
+    font-size: 14px;
+    text-align: center;
+}
+
+.aboutUsCards .box{
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+.aboutUsCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgba(0,0,0,0.37);
+    backdrop-filter: blur(25px);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    height: 375px;
+}
+
+.aboutUsCard{
+    background: rgba(0,0,0,0.8);
+    border-radius: 10px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+    overflow: hidden;
+    width: 300px;
+    padding: 20px;
+    text-align: left;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.aboutUsCard:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 6px 40px rgba(0,0,0,0.2);
+}
+.aboutUsImage{
+    width: 100px;
+    border-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+.aboutUsCard:hover .aboutUsImage{
+    transform: scale(1.05);
+}
+.aboutUsCard h2{
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.aboutUsCard p{
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+.readMoreButton{
+    background: linear-gradient(135deg, #ff4d2d, #ff416c);
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: background 0.3s transform 0.3s;
+}
+.readMoreButton:hover{
+    background: linear-gradient(135deg, #ff416c, #ff4b2b);
+    transform: scale(1.1);
+}

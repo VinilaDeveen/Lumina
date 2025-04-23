@@ -1,0 +1,16 @@
+.User-registration input, .User-registration select {
+    color: white !important;
+    margin-right: 10px ;
+    width: 100%;
+    border-radius: 0px !important;
+}
+
+.User-registration select option {
+    border-radius: 0px !important;
+    background-color: white;
+    color: black;
+}
+
+.User-registration input[type="password"]{
+    font-size: 15px !important;
+}

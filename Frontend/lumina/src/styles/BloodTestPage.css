@@ -1,0 +1,83 @@
+.blood-test-page {
+    display: flex;
+    background-color: #f5f5f5;
+    height: 100vh;
+}
+body{
+    position: static;
+}
+.blood-test-page d-flex{
+    display: flex;
+    height: 100%;
+}
+.content {
+    flex: 1;
+    margin: 25px 20px 160px 270px;
+    width: 700px;
+}
+
+.blood-test-container {
+    margin-top: 20px;
+    position: relative;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.blood-test-container h2{
+    background-color: rgb(248, 247, 247);
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 5px;
+    box-shadow: 0px 2px 2px 3px rgba(160, 154, 154, 0.3);
+    border-color: azure;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.table-container {
+    margin-top: 20px;
+}
+.blood-test-table{
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    background: linear-gradient(to right, #3a3a3a, #6c6c6c);
+    color: white;
+    border-radius: 10px;
+}
+.blood-test-table th, .blood-test-table td{
+    text-align: center;
+    padding: 12px;
+}
+.blood-test-table th{
+    background: #2c2c2c;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.action-column .labtech-view-btn{
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 1px;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+.action-column .labtech-view-btn:hover{
+    background-color: #2e86c1;
+}
+.action-column .labtech-edit-btn{
+    background-color: #c87528;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    transition: background-color 0.3s ease;
+}
+.action-column .labtech-edit-btn:hover{
+    background-color: #d4ac0d;
+}
+
+
+
