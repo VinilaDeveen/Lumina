@@ -8,17 +8,6 @@
   <strong>Modernizing Sri Lanka's blood donation process through technology and innovation.</strong>
 </p>
 
-<p align="center">
-  <a href="#problem-statement">Problem Statement</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#impact">Impact</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#features">Features</a> •
-  <a href="#future-improvements">Future Improvements</a> •
-  <a href="#contributors">Contributors</a> •
-  <a href="#acknowledgments">Acknowledgments</a>
-</p>
-
 ---
 
 ## 📝 Short Description  
