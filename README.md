@@ -101,19 +101,42 @@ Lumina aims to transform healthcare in Sri Lanka:
 
 ---
 
-## 👥 Contributors
-| Profile | Name |
-|---------|------|
-| <img src="https://avatars.githubusercontent.com/u/179115030?s=130&v=4" width="80" style="border-radius:50%"/> | **LPLU Perera** |
-| <img src="https://avatars.githubusercontent.com/u/162352770?s=130&v=4" width="80" style="border-radius:50%"/> | **DD Wickramathilake** |
-| <img src="https://avatars.githubusercontent.com/u/165530098?s=130&v=4" width="80" style="border-radius:50%"/> | **NM Bishar** |
-| <img src="https://placehold.co/100x100/EFEFEF/333333?text=LGJD" width="80" style="border-radius:50%"/> | **LGJD Jayaweera** |
-| <img src="https://avatars.githubusercontent.com/u/172469505?s=130&v=4" width="80" style="border-radius:50%"/> | **LB V Deveen** |
-| <img src="https://placehold.co/100x100/EFEFEF/333333?text=IWCMM" width="80" style="border-radius:50%"/> | **IWCMM Perera** |
-| <img src="https://avatars.githubusercontent.com/u/178556150?s=130&v=4" width="80" style="border-radius:50%"/> | **WGKP Chandrarathna** |
-| <img src="https://avatars.githubusercontent.com/u/178595852?s=130&v=4" width="80" style="border-radius:50%"/> | **TH Kalani** |
-| <img src="https://avatars.githubusercontent.com/u/165471638?s=130&v=4" width="80" style="border-radius:50%"/> | **RDNP Kumara** |
-| <img src="https://avatars.githubusercontent.com/u/143675687?s=130&v=4" width="80" style="border-radius:50%"/> | **HMGCA Herath** |
+<a name="contributors"></a>👥 Contributors
+<p align="center">
+<a href="https://github.com/LinalUthsara">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179115030?v=4&mask=circle&h=60&w=60" title="Linal Uthsara"/>
+</a>
+<a href="https://github.com/DD-Wickramathilake">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/162352770?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="DD Wickramathilake"/>
+</a>
+<a href="https://github.com/BisharNM">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165530098?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="N M Bishar"/>
+</a>
+<a href="https://github.com/LGJanithaDilshan">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179171293?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Janitha Dilshan"/>
+</a>
+<a href="https://github.com/VinilaDeveen">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/172469505?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="LB V Deveen"/>
+</a>
+<a href="https://github.com/Chamod-alt">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/152728704?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Chamod Mahiru"/>
+</a>
+<a href="https://github.com/kavidichandararathna">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178556150?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Kavidi Chandararathna"/>
+</a>
+<a href="https://github.com/HIRUSHAKALANI">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178595852?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Hirusha Kalani"/>
+</a>
+<a href="https://github.com/NPK14622">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165471638?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Nishan Pubudu"/>
+</a>
+<a href="https://github.com/CAdithya11">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/143675687?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="Chamuditha Adithya"/>
+</a>
+</p>
+
+
+
 
 ---
 
