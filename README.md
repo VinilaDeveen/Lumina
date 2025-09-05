@@ -148,6 +148,17 @@ Special thanks to:
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://github.com/VinilaDeveen/Lumina/blob/main/Frontend/lumina/src/assets/video/Lumina%20Promo%20Video.mp4" target="_blank">
+    <img src="" alt="Watch the video" width="600"/>
+  </a>
+</p>
+
+
+---
+
 <p align="center">
   <em>💉 Be the reason for someone's heartbeat. Donate Blood. ❤️</em>
 </p>
