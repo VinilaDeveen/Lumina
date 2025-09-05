@@ -160,9 +160,7 @@ Special thanks to:
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://github.com/VinilaDeveen/Lumina/blob/main/Lumina%20Promo%20Video.gif" target="_blank">
     <img src="https://github.com/VinilaDeveen/Lumina/blob/main/Lumina%20Promo%20Video.gif" alt="Watch the video" width="600"/>
-  </a>
 </p>
 
 
