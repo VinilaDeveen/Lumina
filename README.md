@@ -135,6 +135,15 @@ Lumina aims to transform healthcare in Sri Lanka:
 </a>
 </p>
 
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <a href="assets/demo.mp4">
+    <img src="assets/demo.gif" alt="Lumina Demo" width="600"/>
+  </a>
+</p>
 
 
 
@@ -151,8 +160,8 @@ Special thanks to:
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://github.com/VinilaDeveen/Lumina/blob/main/Frontend/lumina/src/assets/video/Lumina%20Promo%20Video.mp4" target="_blank">
-    <img src="" alt="Watch the video" width="600"/>
+  <a href="https://github.com/VinilaDeveen/Lumina/blob/main/Lumina%20Promo%20Video.gif" target="_blank">
+    <img src="https://github.com/VinilaDeveen/Lumina/blob/main/Lumina%20Promo%20Video.gif" alt="Watch the video" width="600"/>
   </a>
 </p>
 
