@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/8rq5X7C.png" alt="Lumina Logo" width="200"/>
+  <img src="https://github.com/VinilaDeveen/Lumina/blob/main/Frontend/lumina/src/assets/LUMINA.jpg" width="500"/>
 </p>
 
-<h1 align="center">🌟 Lumina - Blood Donation System 🌟</h1>
+<h1 align="center"> Lumina - Blood Donation System </h1>
 
 <p align="center">
   <strong>Modernizing Sri Lanka's blood donation process through technology and innovation.</strong>
@@ -47,13 +47,89 @@ Lumina aims to transform healthcare in Sri Lanka:
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java-icon" height="45" title="Java"/>
+    </picture>
+  </a>
+
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring-icon" height="45" title="Spring"/>
+    </picture>
+  </a>
+
+  
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
+    </picture>
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React-icon" height="45" title="React"/>
+    </picture>
+  </a>
+
+  <a href="https://html.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML-icon" height="45" title="HTML"/>
+    </picture>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS-icon" height="45" title="CSS"/>
+    </picture>
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
+    </picture>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL-icon" height="45" title="MySQL"/>
+    </picture>
+  </a>
+
+
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma-icon" height="45" title="Figma"/>
+    </picture>
+  </a>
+
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg">
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" alt="Npm-icon" height="45" title="Npm"/>
+    </picture>
+  </a>
+  
 </p>
 
 ---
@@ -126,23 +202,11 @@ Lumina aims to transform healthcare in Sri Lanka:
 
 ---
 
-## 🎥 Demo
-
-<p align="center">
-  <a href="assets/demo.mp4">
-    <img src="assets/demo.gif" alt="Lumina Demo" width="500"/>
-  </a>
-</p>
-
-
-
----
-
 ## 🙏 Acknowledgments
 Special thanks to:  
-- **Dr. Anura Perera** – Mentorship & guidance  
-- **Ms. Samanthi De Silva** – Insights into healthcare needs  
-- **Mr. Roshan Fernando** – Project management & dev best practices  
+- **Dr. Sunimal Rathnayake** – Mentorship & guidance  
+- **Ms. Nilusha Perera** – Mentorship & guidance
+- **Mrs. Nirmani Samarakoon** – Insights into healthcare needs 
 
 ---
 
