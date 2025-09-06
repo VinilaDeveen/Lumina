@@ -166,7 +166,7 @@ Lumina aims to transform healthcare in Sri Lanka:
 
 ---
 
-<a name="contributors"></a>👥 Contributors
+## 👥 Contributors
 <p align="center">
 <a href="https://github.com/LinalUthsara">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179115030?v=4&mask=circle&h=60&w=60" title="Linal Uthsara"/>
