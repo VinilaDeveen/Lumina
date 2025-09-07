@@ -178,25 +178,25 @@ Lumina aims to transform healthcare in Sri Lanka:
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165530098?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="N M Bishar"/>
 </a>
 <a href="https://github.com/LGJanithaDilshan">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179171293?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Janitha Dilshan"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179171293?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Janitha Dilshan"/>
 </a>
 <a href="https://github.com/VinilaDeveen">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/172469505?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="LB V Deveen"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/172469505?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="LB V Deveen"/>
 </a>
 <a href="https://github.com/Chamod-alt">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/152728704?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Chamod Mahiru"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/152728704?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Chamod Mahiru"/>
 </a>
 <a href="https://github.com/kavidichandararathna">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178556150?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Kavidi Chandararathna"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178556150?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Kavidi Chandararathna"/>
 </a>
 <a href="https://github.com/HIRUSHAKALANI">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178595852?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Hirusha Kalani"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178595852?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Hirusha Kalani"/>
 </a>
 <a href="https://github.com/NPK14622">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165471638?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Nishan Pubudu"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165471638?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Nishan Pubudu"/>
 </a>
 <a href="https://github.com/CAdithya11">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/143675687?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Chamuditha Adithya"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/143675687?v=4&mask=circle&h=60&w=60&cb={{DATE}}" style="border-radius:50%" title="Chamuditha Adithya"/>
 </a>
 </p>
 
