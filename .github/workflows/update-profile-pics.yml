@@ -12,6 +12,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
+      - name: Push changes
+        run: git push origin main
+
       - name: Replace cache-buster in README.md
         run: |
           DATE=$(date +"%Y%m%d")
