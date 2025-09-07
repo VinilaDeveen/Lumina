@@ -172,7 +172,7 @@ Lumina aims to transform healthcare in Sri Lanka:
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179115030?v=4&mask=circle&h=60&w=60" title="Linal Uthsara"/>
 </a>
 <a href="https://github.com/DineshaDhanajanai">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/162352770?v=4&mask=circle&h=60&w=60&cb=20240907" style="border-radius:50%" title="Dinesha Dhanajanai"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/162352770?v=4&mask=circle&h=60&w=60&cb=20240908" style="border-radius:50%" title="Dinesha Dhanajanai"/>
 </a>
 <a href="https://github.com/BisharNM">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165530098?v=4&mask=circle&h=60&w=60" style="border-radius:50%" title="N M Bishar"/>
