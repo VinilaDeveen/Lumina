@@ -192,7 +192,7 @@ Lumina aims to transform healthcare in Sri Lanka:
 <a href="https://github.com/HIRUSHAKALANI">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/178595852?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Hirusha Kalani"/>
 </a>
-<a href="https://github.com/NPK14622">
+<a href="https://github.com/nishanpkumara">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/165471638?v=4&mask=circle&h=60&w=60&cb=20250907" style="border-radius:50%" title="Nishan Pubudu"/>
 </a>
 <a href="https://github.com/CAdithya11">
